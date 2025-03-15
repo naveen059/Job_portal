@@ -1,7 +1,10 @@
 class Example{
 
     public static void main(){
-        System.out.println("Git Version control");
+
+        int a = 45;
+
+        System.out.println("number is " + a);
     }
 
 }
